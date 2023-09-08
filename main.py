@@ -7,11 +7,22 @@ person = {
 print(person["name"])
 print(person["age"])
 
+
+
+
+
+
 person["age"] = "16"
 person["country"] = "Portugal"
 
+
+
+
 print(f"hi my name is {person['name']}, iam {person['age']}, iam from {person['country']}, i hobe to be a {person['hobbies']} ")
 print(f"{person}")
+
+
+
 
 
 
